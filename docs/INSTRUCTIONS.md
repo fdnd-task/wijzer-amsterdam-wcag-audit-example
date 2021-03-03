@@ -1,6 +1,3 @@
-# Task instructions
-<!-- Remove this 👆 in the final task -->
-```
 # Naam
 
 De conventie voor naamgeving is opdrachtgever-opdracht-ondersteuningsniveau
@@ -70,6 +67,6 @@ Definitions of done
 | c | Experiment | Taak zonder een specifiek doel |
 | d | Extension | Aanvultaak |
 | e | Autonomous | Taak zonder ondersteuning |
-```
+
 
 
